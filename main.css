@@ -1,0 +1,53 @@
+body {
+  background-color: #333;
+  color: white;
+}
+
+.jumbotron {
+  height: 500px;
+  background-image: url("images/Photoshoped-1.jpg");
+  background-repeat: none;
+  background-size: cover;
+}
+
+#carouselExampleIndicators img {
+  height: 500px;
+}
+
+#footer {
+  height: 350px;
+  margin: 0;
+  width: 100%;
+  max-width: none !important;
+}
+
+#interested {
+}
+
+.link1:hover {
+  color: cornflowerblue;
+}
+
+#heading1 {
+  font-size: 2.2em;
+}
+
+#description1 {
+  font-size: 1.3em;
+}
+
+#heading2 {
+  font-size: 2.2em;
+}
+
+#description2 {
+  font-size: 1.3em;
+}
+
+#heading3 {
+  font-size: 2.2em;
+}
+
+#description3 {
+  font-size: 1.3em;
+}

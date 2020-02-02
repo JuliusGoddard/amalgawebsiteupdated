@@ -1,0 +1,36 @@
+body {
+  background-color: #333;
+  color: white;
+}
+
+.jumbotron {
+  height: 500px;
+  background-image: url("/images/1-min.");
+  background-repeat: none;
+  background-size: cover;
+}
+
+#carouselExampleIndicators {
+  img {
+    height: 500px;
+  }
+}
+
+#footer {
+  height: 350px;
+  margin: 0;
+  width: 100%;
+  max-width: none !important;
+}
+
+#interested {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.link1 {
+  color: black;
+  &:link {
+    color: black;
+  }
+}
